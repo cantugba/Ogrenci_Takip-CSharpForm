@@ -1,0 +1,10 @@
+C:\Users\asus.LAPTOP-GTMR0A7M\source\repos\OgrenciTakipProjesi\bin\Debug\OgrenciTakipProjesi.exe.config
+C:\Users\asus.LAPTOP-GTMR0A7M\source\repos\OgrenciTakipProjesi\bin\Debug\OgrenciTakipProjesi.exe
+C:\Users\asus.LAPTOP-GTMR0A7M\source\repos\OgrenciTakipProjesi\bin\Debug\OgrenciTakipProjesi.pdb
+C:\Users\asus.LAPTOP-GTMR0A7M\source\repos\OgrenciTakipProjesi\obj\Debug\OgrenciTakipProjesi.csprojAssemblyReference.cache
+C:\Users\asus.LAPTOP-GTMR0A7M\source\repos\OgrenciTakipProjesi\obj\Debug\OgrenciTakipProjesi.Form1.resources
+C:\Users\asus.LAPTOP-GTMR0A7M\source\repos\OgrenciTakipProjesi\obj\Debug\OgrenciTakipProjesi.Properties.Resources.resources
+C:\Users\asus.LAPTOP-GTMR0A7M\source\repos\OgrenciTakipProjesi\obj\Debug\OgrenciTakipProjesi.csproj.GenerateResource.cache
+C:\Users\asus.LAPTOP-GTMR0A7M\source\repos\OgrenciTakipProjesi\obj\Debug\OgrenciTakipProjesi.csproj.CoreCompileInputs.cache
+C:\Users\asus.LAPTOP-GTMR0A7M\source\repos\OgrenciTakipProjesi\obj\Debug\OgrenciTakipProjesi.exe
+C:\Users\asus.LAPTOP-GTMR0A7M\source\repos\OgrenciTakipProjesi\obj\Debug\OgrenciTakipProjesi.pdb
